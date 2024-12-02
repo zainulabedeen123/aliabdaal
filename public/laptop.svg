@@ -1,0 +1,5 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="6" width="24" height="16" rx="2" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 24H30V25C30 26.1046 29.1046 27 28 27H4C2.89543 27 2 26.1046 2 25V24Z" fill="currentColor"/>
+  <path d="M13 14V16L17 14L13 12V14Z" fill="currentColor"/>
+</svg> 
